@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 280" fill="none">
+  <!-- Terminal window -->
+  <rect width="840" height="280" rx="10" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="840" height="36" rx="10" fill="#161b22"/>
+  <rect y="26" width="840" height="10" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="18" r="6" fill="#28c840"/>
+  <text x="420" y="22" font-family="monospace" font-size="13" fill="#8b949e" text-anchor="middle">bluedusk@melbourne — zsh</text>
+
+  <!-- Prompt line -->
+  <text font-family="'Courier New', monospace" font-size="14" fill="#58a6ff" x="24" y="72">
+    <tspan fill="#7ee787">❯</tspan> whoami
+  </text>
+
+  <!-- Name block -->
+  <text font-family="'Courier New', monospace" font-weight="bold" font-size="48" fill="#58a6ff" x="24" y="130">BLUEDUSK</text>
+
+  <!-- Info -->
+  <text font-family="'Courier New', monospace" font-size="14" fill="#c9d1d9" x="24" y="165">Dan · Melbourne · 10+ yrs shipping things</text>
+
+  <!-- Tech stack -->
+  <text font-family="'Courier New', monospace" font-size="13" fill="#8b949e" x="24" y="195">TypeScript · React · Node · Go · AWS · AI Agents</text>
+
+  <!-- Tagline -->
+  <text font-family="'Courier New', monospace" font-size="13" fill="#7ee787" x="24" y="225">Building tools that make devs say "wait, you can do that?"</text>
+
+  <!-- Cursor -->
+  <text font-family="'Courier New', monospace" font-size="14" fill="#58a6ff" x="24" y="258">
+    <tspan fill="#7ee787">❯</tspan> <tspan fill="#c9d1d9" opacity="0.6">_</tspan>
+  </text>
+</svg>
