@@ -1,3 +1,12 @@
-<p align="center">
-  <img src="banner.svg" alt="bluedusk terminal" width="100%"/>
-</p>
+```
+❯ whoami
+```
+# BLUEDUSK
+
+Dan · Melbourne 🦘 · 10+ yrs shipping things
+
+`TypeScript · React · Node · Go · AWS · AI Agents`
+
+```diff
+- ⏵⏵ bypass permissions on
+```
