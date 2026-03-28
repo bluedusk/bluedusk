@@ -19,20 +19,10 @@ $ cat status.yml
 ```
 ```yaml
 building:   AI agent skills (Claude, Gemini, Copilot, Codex)
-shipping:   html-slides, html-magazine, things you'll see soon
 playing:    video games (for "UX research")
 fueled_by:  mass quantities of coffee
 philosophy: if it can be automated, it should have been automated yesterday
 ```
-
-```bash
-$ ls ~/projects/pinned/
-```
-
-| | Project | What It Does |
-|-|---------|-------------|
-| 🎨 | **[html-slides](https://github.com/bluedusk/html-slides)** | AI skill → gorgeous presentation slides |
-| 📰 | **[html-magazine](https://github.com/bluedusk/html-magazine)** | AI skill → paginated magazine pages with editorial voice |
 
 ```bash
 $ cat /proc/skills
